@@ -11,7 +11,7 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/vivek-bharadwaj-dev/"
+                href="https://www.linkedin.com/in/vivek1bharadwaj/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
@@ -27,7 +27,7 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/Vivek-Bharadwaj-Dev"
+              href="https://github.com/Vivek1Bharadwaj"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -36,7 +36,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/vivek-bharadwaj-dev/"
+              href="https://www.linkedin.com/in/vivek1bharadwaj/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -54,7 +54,7 @@ const Contact = () => {
               X (Twitter) <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/vivek__bharadwaj_?igsh=ZmpkeHZraHRxOGQ5"
+              href="https://www.instagram.com/vivekk_bharadwaj?igsh=ZmpkeHZraHRxOGQ5"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"

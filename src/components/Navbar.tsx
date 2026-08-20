@@ -48,7 +48,7 @@ const Navbar = () => {
           VB
         </a>
         <a
-          href="https://www.linkedin.com/in/vivek-bharadwaj-dev/"
+          href="https://www.linkedin.com/in/vivek1bharadwaj/"
           className="navbar-connect"
           data-cursor="disable"
           target="_blank"

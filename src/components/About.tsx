@@ -6,9 +6,9 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am the founder of <strong>Orion</strong>, a digital solutions agency building modern websites, SaaS, and AI products for businesses. As a <strong>full-stack developer and designer</strong>, I engineer digital products from concept to deployment.
+          I am a <strong>B.Tech student in Information Technology</strong>, passionate about software development and building modern digital solutions. I have hands-on experience with <strong>full-stack development, web technologies, and advanced AI tools</strong>, using them to create efficient, scalable, and user-focused applications.
           <br /><br />
-          Previously, as a <strong>Full-Stack Developer</strong> at <strong>Fixdot Technologies</strong>, I built and maintained scalable web applications across both frontend and backend systems.
+          As a <strong>Software Developer and Designer</strong>, I enjoy turning ideas into functional digital products while continuously exploring emerging technologies in <strong>Artificial Intelligence, SaaS, and modern software development</strong>.
         </p>
       </div>
     </div>
